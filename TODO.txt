@@ -1,0 +1,5 @@
+2022.4.30 => start design class => using slack classroom service
+
+
+
+==> Sequenctial Logic, Digital Logic, Digital Circuit Design, Semiconductor make process Base
